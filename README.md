@@ -89,7 +89,7 @@
 
 | Proyecto | Descripción |
 |---|---|
-| 🐾 **VisionScan** | Plataforma web de adopción y búsqueda de perros extraviados con reconocimiento de imágenes (EfficientNetB0 + pgvector). Trabajo Terminal, ESCOM–IPN. |
+| 🐾 **PERREQUE** | Plataforma web de adopción y búsqueda de perros extraviados con reconocimiento de imágenes (EfficientNetB0 + pgvector). Trabajo Terminal, ESCOM–IPN. |
 | 🖥️ **Homelab** | Servidor personal reciclado de una All-in-One: Pi-hole, archivos compartidos con Samba y acceso remoto con Tailscale. |
 | 📚 **Material PILARES** | Guías y temarios para enseñar computación y programación a personas adultas mayores y grupos comunitarios. |
 
