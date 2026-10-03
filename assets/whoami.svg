@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+  <rect width="960" height="300" rx="16" fill="#17142e" stroke="#c7a4f5" stroke-opacity=".5"/>
+  <rect width="960" height="36" rx="16" fill="#241f45"/>
+  <rect y="20" width="960" height="16" fill="#241f45"/>
+  <circle cx="26" cy="18" r="6" fill="#f78ca0"/><circle cx="46" cy="18" r="6" fill="#f3d29b"/><circle cx="66" cy="18" r="6" fill="#76d8d2"/>
+  <text x="480" y="23" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a99fc9">daniel@escom: ~</text>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="15">
+    <text x="28" y="72"><tspan fill="#76d8d2">daniel@escom</tspan><tspan fill="#fdf0f5">:~$ </tspan><tspan fill="#f3d29b">whoami</tspan></text>
+    <text x="28" y="104" fill="#f78ca0">nombre    <tspan fill="#fdf0f5">: Daniel Robles Moncayo</tspan></text>
+    <text x="28" y="130" fill="#f78ca0">carrera   <tspan fill="#fdf0f5">: Ing. en Sistemas Computacionales · ESCOM–IPN</tspan></text>
+    <text x="28" y="156" fill="#f78ca0">enfoque   <tspan fill="#fdf0f5">: Ciberseguridad · Infraestructura TI · Redes</tspan></text>
+    <text x="28" y="182" fill="#f78ca0">docencia  <tspan fill="#fdf0f5">: Computación y Programación · PILARES CDMX</tspan></text>
+    <text x="28" y="208" fill="#f78ca0">tesis     <tspan fill="#fdf0f5">: VisionScan — búsqueda de mascotas con visión por computadora</tspan></text>
+    <text x="28" y="234" fill="#f78ca0">homelab   <tspan fill="#fdf0f5">: Pi-hole · Samba · Tailscale</tspan></text>
+    <text x="28" y="270"><tspan fill="#76d8d2">daniel@escom</tspan><tspan fill="#fdf0f5">:~$ </tspan><tspan fill="#c7a4f5">▌</tspan></text>
+  </g>
+</svg>
